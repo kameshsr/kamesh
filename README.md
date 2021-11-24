@@ -2,7 +2,7 @@
 
 # Hello! 👋<br/>I am Kamesh :)
 
-## About Me :Bihari:
+## About Me :Bihari
 I am a Software Engineer at [Mountblue technology](https://www.mountblue.io/). My technology stack involves C, C++, Python, Java, Javascript, HTML and spring.
 I am currently contributing in [MOSIP](https://www.mosip.io/)
 
@@ -65,9 +65,15 @@ I am currently contributing in [MOSIP](https://www.mosip.io/)
 </a>
 </p>
 
-## My Stats :chart_with_upwards_trend:
 
-![](https://github.com/kameshsr/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/kameshsr/github-stats/blob/master/generated/languages.svg)
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kameshsr&hide=java,html&title_color=000000&text_color=000000" />
+</a>
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kameshsr&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="natterstefan's GitHub Stats" />
+</a>
 
 
