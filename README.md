@@ -13,10 +13,7 @@ I am currently contributing in [MOSIP](https://www.mosip.io/)
 ## Tools and Technologies :computer:
 
 <p>
- <a href="https://www.java.com/en/" target="_blank">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="C" width="40" height="40"/>
-</a>
-<a href="https://www.programiz.com/c-programming" target="_blank">  
+ <a href="https://www.programiz.com/c-programming" target="_blank">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
 <a href="https://www.programiz.com/cpp-programming" target="_blank"> 
@@ -52,17 +49,8 @@ I am currently contributing in [MOSIP](https://www.mosip.io/)
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
-<a href="https://docs.microsoft.com/en-us/azure/cosmos-db/introduction" target="_blank">
-<img src="https://sqlplayer.net/wp-content/uploads/2020/01/azure-cosmos-db.png" alt="Cosmos DB" width="40" height="40"/>
-</a>
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-</a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank">
-<img src="https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png" alt="Azure" width="50" height="30"/>
 </a>
 <a href="https://www.linux.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
