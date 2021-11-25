@@ -11,7 +11,11 @@ I am currently contributing in [MOSIP](https://www.mosip.io/)
 
 
 ## Tools and Technologies :computer:
+
 <p>
+ <a href="https://www.java.com/en/" target="_blank">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="C" width="40" height="40"/>
+</a>
 <a href="https://www.programiz.com/c-programming" target="_blank">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
